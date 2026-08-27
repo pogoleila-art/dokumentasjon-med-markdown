@@ -1,2 +1,0 @@
-# dokumentasjon-med-markdown
-markdown
